@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primaria: #58a4b0;
+  --secundaria: #373f51;
+  --secundaria-ativa: #ccc;
+  --fundo: #f4f4f4;
+  --fundo-detalhes: #ececec;
+}
+
+.conteudo {
+  display: flex;
+}
